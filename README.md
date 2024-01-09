@@ -1,6 +1,9 @@
 ### Hi there 👋
 - 🔭 I’m currently working on learning powershell, github and python
-- 🌱 I’m currently learning github, next up python :-) 
+- 🌱 I’m currently learning github, next up python :-)
+- ⚡ Fun fact: I am originally from Scotland
+  <img width="675" alt="Screenshot 2023-05-15 201804" src="https://github.com/craigobrien/craigobrien/assets/135157503/45beb18f-400c-4fd1-964f-0e1f2769e177">
+
 <!--
 **craigobrien/craigobrien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
